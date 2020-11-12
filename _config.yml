@@ -14,13 +14,13 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+title:       Pointspace
+keywords:    
+description: "Official site for the Pointspace project"
+source_link: "widve.github.io/Pointspace"
+favicon:     "favicon/favicon.ico"
+touch_icon:  "favicon/apple-icon.png"
+google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
@@ -32,6 +32,17 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  uw-red: '#c5050c'
+  uw-red-dark:   '#9b0000'
+  uw-page-bg:    '#f7f7f7'
+  uw-gray-blue:  '#dadfe1'
+  uw-gray-darker:   '#646569'
+  uw-gray-darkest:   '#282728'
+  uw-body-font:  '#494949'
+  uw-anchor-color:   '#0479a8'
+  uw-text: '#ffffff'
+  uw-gray-footer-text:   '#adadad'
+  uw-gray-footer-text-hover: '#f9f9f9'
 
 kramdown:
   auto_ids:  false
