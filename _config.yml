@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       Pointspace
+title:       pointspace
 keywords:    
-description: "Official site for the Pointspace project"
+description: "Official site for the WID VE point space project"
 source_link: "widve.github.io/Pointspace"
 favicon:     "favicon/favicon.ico"
 touch_icon:  "favicon/apple-icon.png"
