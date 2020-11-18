@@ -5,9 +5,16 @@ color: black
 style: center
 
 ---
+<style type="text/css">
+#topper {
+margin-top: -8em;
+}
+</style>
 
-# Our method
-
+<div id="topper">
+<h1> What is unique about our approach?    </h1>
+</div>
+<br>
 
 We build a way to store and render data, through the use of volumetric cubes.
 
@@ -22,6 +29,8 @@ Our method captures and stores data using volumes as opposed to points.  This en
 Our novel rendering methods utilize the power of the graphics processor to draw many volumes in parallel ultra fast.
     
 <style type="text/css">
+
+
 #wrapper {
   display: flex;
   
