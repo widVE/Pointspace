@@ -10,29 +10,11 @@ fa-icon: camera
 ![istandard-method](images/standardmethod.gif)
 ![istandard-mesh](images/standardmesh.gif)
 
-People often turn to using capture technologies, such as LiDAR scanning to capture real world environments.  Datasets are captured as a series of points in 3D space, which is referred to as a pointcloud.  These pointclouds are often converted into triangulated meshes for visualizations.
+People often turn to using capture technologies, such as LiDAR scanning to capture real world environments.  Datasets are captured as a series of points in 3D space, which is referred to as a pointcloud.  These highly realistic pointclouds often need to be converted into lower detail triangulated meshes for interactive visualizations.
 
 
 
 ## Advantages of Point Clouds
-
-
-
-![Mesh example](images/mesh_example_1.png)
-![Point cloud example](images/points_example_1.png)
-
-Comparing the mesh rendering of an environment (Left) shows that many details are lost compared to the original point cloud file (Right).
-
-## Challenges of Point Clouds
-
-
-
-<!---
-
-Point cloud datasets can have uneven sampling, like in the image below. Our rendering techniques fill in holes in the data for a seamless final image.
-
-![Uneven sampling](images/uneven_sampling.png)
--->
 
 
 <style type="text/css">
@@ -52,6 +34,39 @@ Point cloud datasets can have uneven sampling, like in the image below. Our rend
    padding: 15px;
 }
 </style>
+
+<!--
+![Mesh example](images/mesh_example_1.png)
+![Point cloud example](images/points_example_1.png)
+-->
+<div id="wrapper">
+  <div id="left">
+  
+  <img src="images/mesh_example_1.png">
+
+  </div>
+  <div id="right">
+   <img src="images/points_example_1.png">
+
+  
+  </div>
+  
+</div>
+
+Comparing the mesh rendering of an environment (Left) shows that many details are lost compared to the original point cloud file (Right).
+
+## Challenges of Point Clouds
+
+
+
+<!---
+
+Point cloud datasets can have uneven sampling, like in the image below. Our rendering techniques fill in holes in the data for a seamless final image.
+
+![Uneven sampling](images/uneven_sampling.png)
+-->
+
+
 
 <div id="wrapper">
   <div id="left">
