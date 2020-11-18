@@ -56,11 +56,11 @@ Point cloud datasets can have uneven sampling, like in the image below. Our rend
 <div id="wrapper">
   <div id="left">
   
-  <img src="images/screen_shots_mu1/Screenshot.png">
+  <img src="images/Screenshot.jpg">
 
   </div>
   <div id="right">
-   <img src="images/screen_shots_mu1/Screenshot2.png">
+   <img src="images/Screenshot2.jpg">
 
   
   </div>
@@ -70,11 +70,11 @@ Point cloud datasets can have uneven sampling, like in the image below. Our rend
 <div id="wrapper">
   <div id="left">
   
-  <img src="images/screen_shots_mu1/Screenshot3.png">
+  <img src="images/Screenshot3.jpg">
 
   </div>
   <div id="right">
-   <img src="images/screen_shots_mu1/Screenshot4.png">
+   <img src="images/Screenshot4.jpg">
 
   
   </div>

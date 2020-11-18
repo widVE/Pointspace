@@ -45,14 +45,14 @@ Our novel rendering methods utilize the power of the graphics processor to draw 
 <div id="wrapper">
   <div id="left">
   <h2> Standard Approach </h2>
-  <img src="images/screen_shots_mu1/Screenshot.png">
+  <img src="images/Screenshot.jpg">
 
   </div>
   <div id="right">
   <h2>
    Our Approach
   </h2>
-   <img src="images/screen_shots_mu1/ourmethod.png">
+   <img src="images/ourmethod.jpg">
 
   
   </div>
@@ -62,11 +62,11 @@ Our novel rendering methods utilize the power of the graphics processor to draw 
 <div id="wrapper">
   <div id="left">
   
-  <img src="images/screen_shots_mu1/Screenshot4.png">
+  <img src="images/Screenshot4.jpg">
 
   </div>
   <div id="right">
-   <img src="images/screen_shots_mu1/ourmethod.png">
+   <img src="images/ourmethod.jpg">
 
   
   </div>
